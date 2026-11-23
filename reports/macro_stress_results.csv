@@ -1,0 +1,4 @@
+Scenario,Total_EAD_USD,Total_ECL_USD,ECL_Coverage_Pct,Uplift_vs_Baseline_Pct
+Baseline,98691740.15,10003479.9,10.14,0.0
+Mild Downturn,98691740.15,13397461.49,13.58,33.93
+Severe Recession,98691740.15,18182379.86,18.42,81.76
